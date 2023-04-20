@@ -5,10 +5,10 @@ And a youtube video toggle as 1st argument : https://www.youtube.com/watch?v=MpS
 MpSvyWLEu8M is the video toggle in that example.<BR><BR>
 
 ##DEPENDANCY :
-python 3.8 or more recent<BR><BR>
+python 3.8 or more recent
 
 ##INSTALLATION :
-pip install -r requirements.txt<BR><BR>
+pip install -r requirements.txt
 
 ##USAGE :
 python ytsum.py <toggle>
@@ -22,7 +22,7 @@ Processing the video please wait...
 Elon Musk discusses contingency plans for dealing with advanced artificial intelligence with Tucker Carlson. Musk states that the heavy-duty intelligence will not be distributed all over the place, but rather in a limited number of service centers.
 ```
 ##TO DO :
-code assumes language is english, more languages to be supported in future version<BR><BR>
+default code assumes language is english, more languages to be supported in future version
 
 ##CONTACT :
 mlpeople777@gmail.com<BR>
