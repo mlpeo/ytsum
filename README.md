@@ -11,7 +11,7 @@ python 3.8 or more recent
 pip install -r requirements.txt
 
 ##USAGE :
-python ytsum.py <toggle>
+python ytsum.py 'toggle'
 
 ##OUTPUT EXAMPLE :
 >$ python ytsum.py MpSvyWLEu8M
